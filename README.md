@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bronsonvky
 - 👀 Coding Enthusiast.
-- 🌱 Currently learning LUA | JS | PHP | C# | CSS | MORE
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : bronsonvky
+- 🌱 Currently learning LUA | JS | PHP | C# | CSS | MORE.
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me : bronsonvky.
 
 <!---
 bronsonvky/bronsonvky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
